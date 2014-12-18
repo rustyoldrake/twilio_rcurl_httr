@@ -2,6 +2,7 @@
 ## Using R Programming Language with Twilio REST API
 ## Basic Test Code - using HTTR and RCURL to send SMS Message from active (paid) account 
 ## Ryan Anderson - December 2014
+## See also https://dreamtolearn.com//ryan/data_analytics_viz/80 
 ##########################################################
 
 library(httr)
